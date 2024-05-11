@@ -1,7 +1,7 @@
 import styles from 'src/app/styles/home.module.css'
 
 const Home = () => {
-	return <div className={styles.container}>Starter Template</div>
+	return <div className={styles.container}>Next.js Starter Template</div>
 }
 
 Home.displayName = 'Home'
